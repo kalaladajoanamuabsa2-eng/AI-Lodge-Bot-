@@ -159,7 +159,7 @@ def chat():
     # =========================
 
     prompt = f"""
-Voce é o assistente oficial do Lemon Beach Lodge.
+Voce é o assistente oficial do Kalala Lodge.
 
 Use SOMENTE as informações abaixo.
 
