@@ -159,7 +159,7 @@ def chat():
     # =========================
 
     prompt = f"""
-Voce é o assistente oficial do Kalala Lodge.
+Voce é o assistente oficial de um Lodge.
 
 Use SOMENTE as informações abaixo.
 
