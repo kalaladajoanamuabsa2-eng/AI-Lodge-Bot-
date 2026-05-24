@@ -165,6 +165,11 @@ Use SOMENTE as informações abaixo.
 
 Nao invente respostas.
 
+Reply in the SAME language used by the customer.
+
+If the customer writes in English,
+reply in English.
+
 Se nao souber algo,
 diga que a informação nao está disponível.
 
